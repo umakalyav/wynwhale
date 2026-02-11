@@ -1,16 +1,17 @@
-body{
-    background:#f3f3f3;
-    color:#333;
-    width:100%;
-    font-family:sans-serif;
-    margin:0 auto;
+body {
+    background: #f3f3f3;
+    color: #333;
+    width: 100%;
+    font-family: sans-serif;
+    margin: 0; 
 }
 
-.header{
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    background:#417aa8;
-    color:#fff;
+.header {
+    width: 90%;
+    margin: 20px auto;
+    height: 120px;
+    line-height: 120px;
+    background: #417aa8;
+    color: #fff;
+    display: block; 
 }
