@@ -10,8 +10,11 @@ body {
     width: 90%;
     margin: 20px auto;
     height: 120px;
-    line-height: 120px;
+    line-height: 120px; 
     background: #417aa8;
     color: #fff;
-    display: block; 
+    text-align: center; 
+
+.header h2 {
+    margin: 0;
 }
