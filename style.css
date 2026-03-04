@@ -19,6 +19,15 @@ body{
     padding:0 2pc;
 }
 
+<div class="menu">
+        <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+         </ul>
+<?div>
+
 .menu{
     background-color:#417aa8;
     height:50px;
@@ -44,6 +53,15 @@ body{
     padding-bottom:1pc;
     padding-left:2pc;
     padding-right:2pc;
+}
+
+.kiri{
+    width:70%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+}
 
 
 
